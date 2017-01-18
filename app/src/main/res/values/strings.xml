@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bearcat Silencer</string>
+    <string name="ColdenPond">Colden Pond</string>
+    <string name="StudentsUnion">Students Union</string>
+    <string name="BDOwensLibrary">B D Owens Library</string>
+    <string name="GarretStrong">Garret Strong</string>
+    <string-array name="locations">
+        <item>Colden Pond</item>
+        <item>Students Union</item>
+        <item>B D Owens Library</item>
+        <item>Garret Strong</item>
+    </string-array>
+</resources>
