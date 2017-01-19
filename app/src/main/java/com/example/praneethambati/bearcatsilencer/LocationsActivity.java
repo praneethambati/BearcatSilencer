@@ -43,7 +43,8 @@ public class LocationsActivity extends AppCompatActivity {
         locationsList.add(locations);
         locations = new LocationsModel("Garret Strong",94.555555,-30.222222,false);
         locationsList.add(locations);
-
+        locations = new LocationsModel("REC",94.555555,-30.222222,false);
+        locationsList.add(locations);
 
         //create an ArrayAdaptar from the String Array
         dataAdapter = new MyCustomAdapter(LocationsActivity.this,R.layout.locations_info, locationsList);
